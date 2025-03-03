@@ -5,6 +5,8 @@ Based on mermaid diagrams format
 Takes 2 workflow runs in mermaid format (the actual logic of denerating mermaid format is out of scope)
 it then uses React and TypeScript to visuallize the difference
 
+![image](https://github.com/user-attachments/assets/ffd49684-40fd-472d-b6d1-7e164b95288a)
+
 ## Getting up and running
 
 The template contains mostly the minimum dependencies to get up and running, but
